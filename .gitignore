@@ -109,7 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+bin
+lib
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -127,3 +128,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# created by virtualenv automatically
+*
